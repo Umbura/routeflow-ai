@@ -1,45 +1,47 @@
-# RouteFlow AI EN
+# RouteFlow AI
 
-> **Otimização Logística de Última Milha (*Last Mile*) impulsionada por Agentes de IA Generativa.**
+> **Autonomous Last-Mile Logistics Optimization powered by Generative AI Agents.**
 
 [![Português](https://img.shields.io/badge/Lang-Português-green)](README_PT.md)
 ![Badge Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Badge Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Badge AI](https://img.shields.io/badge/AI-Llama%203.3-blue?style=flat)
 
-![Demo Principal](https://github.com/Umbura/routeflow-ai/blob/main/assets/demo_whatsapp_msg_2.PNG)
-*(Exemplo: O sistema interpretando uma mensagem informal de chat e gerando uma rota otimizada)*
+![Main Demo](https://github.com/Umbura/routeflow-ai/blob/main/assets/demo_whatsapp_msg_2.PNG)
+*(Example: The system interpreting an informal chat message and generating an optimized route)*
 
 ---
 
-## Sobre
-No setor de logística e delivery, a eficiência da "Última Milha" é crítica. Pequenas frotas e entregadores autônomos frequentemente recebem demandas de forma **desestruturada** (mensagens de WhatsApp, e-mails, anotações), o que gera dois problemas:
-1.  Tempo perdido tentando organizar endereços manualmente.
-2.  Rotas ineficientes que desperdiçam combustível e tempo.
+## About
+In the logistics and delivery sector, "Last Mile" efficiency is critical. Small fleets and independent drivers often receive demands in **unstructured formats** (WhatsApp messages, emails, handwritten notes), leading to two main problems:
+1.  Time wasted manually organizing addresses.
+2.  Inefficient routes that waste fuel and time.
 
-Visando solucionar isso **RouteFlow AI** é um Agente Inteligente que automatiza esse fluxo. Ele atua como um despachante virtual:
-1.  **Entende** pedidos em linguagem natural (textos informais).
-2.  **Valida** geograficamente os endereços.
-3.  **Calcula** matematicamente a melhor rota de entrega.
+To solve this, **RouteFlow AI** is an Intelligent Agent that automates this workflow. It acts as a virtual dispatcher that:
+1.  **Understands** natural language orders (informal text).
+2.  **Validates** addresses geographically.
+3.  **Calculates** the mathematically optimal route.
 
-## Metodologia e Arquitetura
-O projeto foi desenvolvido utilizando princípios de **Clean Architecture** e **Modularidade**, separando a lógica de negócio (Backend) da interface (Frontend).
+## Methodology and Architecture
+The project was developed using **Clean Architecture** and **Modularity** principles, separating business logic (Backend) from the interface (Frontend).
 
-### O Fluxo do Agente (Agentic Workflow)
-O sistema não é apenas um script, mas um orquestrador de ferramentas:
+### Agentic Workflow
+The system is not just a script, but a tool orchestrator:
 
-1.  **Cérebro (LLM):** Utilizamos o **Llama 3.3 (via Groq)** para processamento de linguagem natural. Ele extrai entidades (endereços) de textos bagunçados e os converte para JSON estruturado.
-2.  **Ferramenta Geoespacial:** O agente consulta a API do **Nominatim (OpenStreetMap)** para converter endereços em coordenadas (Latitude/Longitude).
-3.  **Motor de Otimização:** Aplicamos um algoritmo heurístico para resolver o **Problema do Caixeiro Viajante (TSP - Traveling Salesman Problem)**, garantindo que o entregador percorra a menor distância possível.
+1.  **Brain (LLM):** We use **Llama 3.3 (via Groq)** for natural language processing. It extracts entities (addresses) from messy text and converts them into structured JSON.
+2.  **Geospatial Tool:** The agent queries the **Nominatim API (OpenStreetMap)** to convert strings into coordinates (Latitude/Longitude).
+3.  **Optimization Engine:** We apply a heuristic algorithm to solve the **Traveling Salesman Problem (TSP)**, ensuring the driver travels the shortest possible distance.
 
-## Conclusão
-*Foi um projeto satisfatorio e não muito dificil, já que as bibliotecas e agentes para esse tipo de ideia são bem efetivos.*
-*Testei varias combinaçõe de mensagem e o agente foi capaz de interpretar de forma efetiva, mesmo usando uma linguagem extremamente informal, essas combinações podem ser visualizadas na pasta assets.*
+## Conclusion
+*This was a rewarding project to build and relatively straightforward, as the libraries and agents available for this concept are highly effective.*
 
-*Para mim, um proximo passo interessante seria integra-lo ao google maps pra ter dados de transito em tempo real e posteriormente desenvolver um APP.*
+*I tested various message combinations, and the agent was able to interpret them effectively, even when using extremely informal language. These scenarios can be viewed in the `assets` folder.*
 
-## Instalação e Uso
+*An interesting next step would be integrating it with Google Maps to access real-time traffic data and subsequently developing a mobile App.*
 
-Clone o repositorio, crie um ambiente virtual para instalação dos requerimentos e configure a chave API do seu agente(grok, openai e etc.) no `.env`.
+## Installation and Usage
 
-Por fim execute com `streamlit run main.py`
+Clone the repository, create a virtual environment to install the requirements, and configure your Agent's API Key (Groq, OpenAI, etc.) in the `.env` file.
+
+Finally, execute it with:
+`streamlit run main.py`
