@@ -7,7 +7,7 @@
 ![Badge AI](https://img.shields.io/badge/AI-Llama%203.3-blue?style=flat)
 
 ![Demo Principal](https://github.com/Umbura/routeflow-ai/blob/main/assets/demo_whatsapp_msg_2.PNG)
-*(Exemplo real: O sistema interpretando uma mensagem informal de chat e gerando uma rota otimizada)*
+*(Exemplo: O sistema interpretando uma mensagem informal de chat e gerando uma rota otimizada)*
 
 ---
 
