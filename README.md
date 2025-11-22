@@ -3,6 +3,8 @@
 > **Autonomous Last-Mile Logistics Optimization powered by Generative AI Agents.**
 
 [![Português](https://img.shields.io/badge/Lang-Português-green)](README_PT.md)
+*(Clique aqui para ver o readme em portugues.)*
+
 ![Badge Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Badge Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Badge AI](https://img.shields.io/badge/AI-Llama%203.3-blue?style=flat)
