@@ -2,6 +2,7 @@
 
 > **Otimização Logística de Última Milha (*Last Mile*) impulsionada por Agentes de IA Generativa.**
 
+[![Português](https://img.shields.io/badge/Lang-Português-green)](README_PT.md)
 ![Badge Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Badge Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Badge AI](https://img.shields.io/badge/AI-Llama%203.3-blue?style=flat)
