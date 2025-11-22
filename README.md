@@ -15,7 +15,7 @@
 </p>
 
 <!-- IMAGEM DE DEMO -->
-<img src="https://github.com/Umbura/routeflow-ai/blob/main/assets/demo_en_whatsapp.PNG" alt="Demo RouteFlow" width="100%">
+<img src="https://raw.githubusercontent.com/Umbura/routeflow-ai/refs/heads/main/assets/demo_en_whatsapp.PNG" alt="Demo RouteFlow" width="100%">
 
 *(Example: The system interpreting an informal chat message and generating an optimized route)*
 
