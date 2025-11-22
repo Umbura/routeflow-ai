@@ -1,0 +1,9 @@
+streamlit
+pandas
+openai
+geopy
+folium
+streamlit-folium
+pydantic
+python-dotenv
+watchdog
