@@ -16,7 +16,7 @@
 </p>
 
 <!-- IMAGEM DE DEMO -->
-<img src="assets/demo_whatsapp_informal.png" alt="Demo RouteFlow" width="100%">
+<img src="assets/demo_en_whatsapp.png" alt="Demo RouteFlow" width="100%">
 
 *(Example: The system interpreting an informal chat message and generating an optimized route)*
 
