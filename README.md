@@ -1,15 +1,31 @@
+<div align="center">
+
 # RouteFlow AI
 
-> **Autonomous Last-Mile Logistics Optimization powered by Generative AI Agents.**
+### Autonomous Last-Mile Logistics Optimization powered by Generative AI Agents.
 
-![Badge Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![Badge Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Badge AI](https://img.shields.io/badge/AI-Llama%203.3-blue?style=flat)
+<!-- BOTÃO DE IDIOMA -->
+[![Read in Portuguese](https://img.shields.io/badge/Read%20in-Portuguese-2ea44f?style=for-the-badge&logo=google-translate&logoColor=white)](README_PT.md)
 
-[![Read in Portuguese](https://img.shields.io/badge/Read%20in-Portuguese-green?style=for-the-badge&logo=appveyor)](README_PT.md)
+<!-- TECH STACK BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Llama%203.3-4285F4?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Type%20Safe-e92063?style=for-the-badge" />
+</p>
 
-![Main Demo](https://github.com/Umbura/routeflow-ai/blob/main/assets/demo_en_whatsapp.PNG)
+<!-- IMAGEM DE DEMO -->
+<img src="assets/demo_whatsapp_informal.png" alt="Demo RouteFlow" width="100%">
+
 *(Example: The system interpreting an informal chat message and generating an optimized route)*
+
+</div>
+
+---
+
+## About
+... (O resto do texto continua igual)
 
 ---
 
