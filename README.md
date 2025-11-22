@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/AI-Llama%203.3-4285F4?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
-<!-- IMAGEM DE DEMO -->
-<img src="https://raw.githubusercontent.com/Umbura/routeflow-ai/refs/heads/main/assets/demo_en_whatsapp.PNG" alt="Demo RouteFlow" width="100%">
+<!-- MAIN IMAGE -->
+<img src="https://raw.githubusercontent.com/Umbura/Risk-Engine-AI-Investment-Advisor/refs/heads/main/assets/classification_report.png" alt="Classification Report" width="100%">
 
 *(Example: The system interpreting an informal chat message and generating an optimized route)*
 
