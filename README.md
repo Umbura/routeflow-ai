@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Llama%203.3-4285F4?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Type%20Safe-e92063?style=for-the-badge" />
 </p>
 
 <!-- IMAGEM DE DEMO -->
