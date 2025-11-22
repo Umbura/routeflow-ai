@@ -1,15 +1,25 @@
+<div align="center">
+
 # RouteFlow AI
 
-> **Otimização Logística de Última Milha (*Last Mile*) impulsionada por Agentes de IA Generativa.**
+### Otimização Logística de Última Milha (*Last Mile*) impulsionada por Agentes de IA Generativa.
 
-[![English](https://img.shields.io/badge/Lang-English-blue)](README.md)
-![Badge Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![Badge Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Badge AI](https://img.shields.io/badge/AI-Llama%203.3-blue?style=flat)
+<!-- BOTÃO DE IDIOMA -->
+[![Read in English](https://img.shields.io/badge/Read%20in-english-2ea44f?style=for-the-badge&logo=google-translate&logoColor=white)](README.md)
 
+<!-- TECH STACK BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Llama%203.3-4285F4?style=for-the-badge&logo=meta&logoColor=white" />
+</p>
 
-![Demo Principal](https://github.com/Umbura/routeflow-ai/blob/main/assets/demo_whatsapp_msg_2.PNG)
+<!-- IMAGEM DE DEMO -->
+<img src="https://github.com/Umbura/routeflow-ai/blob/main/assets/demo_en_whatsapp.PNG" alt="Demo RouteFlow" width="100%">
+
 *(Exemplo: O sistema interpretando uma mensagem informal de chat e gerando uma rota otimizada)*
+
+</div>
 
 ---
 
