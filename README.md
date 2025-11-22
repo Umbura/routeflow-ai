@@ -25,11 +25,6 @@
 ---
 
 ## About
-... (O resto do texto continua igual)
-
----
-
-## About
 In the logistics and delivery sector, "Last Mile" efficiency is critical. Small fleets and independent drivers often receive demands in **unstructured formats** (WhatsApp messages, emails, handwritten notes), leading to two main problems:
 1.  Time wasted manually organizing addresses.
 2.  Inefficient routes that waste fuel and time.
