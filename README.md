@@ -5,9 +5,8 @@
 ![Badge Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Badge Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Badge AI](https://img.shields.io/badge/AI-Llama%203.3-blue?style=flat)
-![Badge Pydantic](https://img.shields.io/badge/Code-Type%20Safe-e92063?style=flat)
-
 ![Demo Principal](assets/demo_whatsapp_informal.png)
+
 *(Exemplo real: O sistema interpretando uma mensagem informal de chat e gerando uma rota otimizada)*
 
 ---
